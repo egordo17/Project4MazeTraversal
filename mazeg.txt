@@ -1,0 +1,8 @@
+size
+5
+grid
+G G G G G
+G G G G G
+G G G G G
+4 4 4 4 4
+4 4 4 4 4
